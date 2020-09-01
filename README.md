@@ -14,8 +14,14 @@
 
 Выглядит это как-то так:
 
+#### журнал посещений
+
 <img src="/img/screenshots/showhistory.png" width="50%">
+
+
+#### Ввод в адресной строке telegram
 
 <img src="/img/screenshots/typeaddress.png" width="50%">
 
+#### показ всех открытых вкладок
 <img src="/img/screenshots/showtabs.png" width="50%">
