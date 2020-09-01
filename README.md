@@ -14,8 +14,8 @@
 
 Выглядит это как-то так:
 
-<img src="/img/screenshots/showhistory.png">
+<img src="/img/screenshots/showhistory.png" width="50%">
 
-<img src="/img/screenshots/typeaddress.png">
+<img src="/img/screenshots/typeaddress.png" width="50%">
 
-<img src="/img/screenshots/showtabs.png">
+<img src="/img/screenshots/showtabs.png" width="50%">
