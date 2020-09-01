@@ -1,3 +1,5 @@
+### Краткое описание
+
 [knigareceptov.github.io](https://knigareceptov.github.io) - форк официального клиента [https://web.telegram.org](web.telegram.org) c измененным лого/favicon и описанием страницы. 
 
 ### Для чего это нужно
