@@ -1,6 +1,10 @@
+### Веб-версия клиента
+
+Веб-версия находится по адресу: [knigareceptov.github.io](https://knigareceptov.github.io) 
+
 ### Краткое описание
 
-[knigareceptov.github.io](https://knigareceptov.github.io) - форк официального клиента [https://web.telegram.org](web.telegram.org) c измененным лого/favicon и описанием страницы. 
+Это форк официального клиента [https://web.telegram.org](web.telegram.org) c измененным лого/favicon и описанием страницы. 
 
 ### Для чего это нужно
 
