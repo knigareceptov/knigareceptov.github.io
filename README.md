@@ -29,3 +29,7 @@
 
 #### показ всех открытых вкладок
 <img src="/img/screenshots/showtabs.png" width="50%">
+
+### Насколько это безопасно?
+
+Это форк на основе официального веб-клиента [https://github.com/zhukov/webogram](https://github.com/zhukov/webogram), никакие данные третьим лицам не передаются, всё работает на чистом JS/HTML. Ознакомиться со всеми внесенными изменениями можно по ссылке: [https://github.com/zhukov/webogram/compare/gh-pages...knigareceptov:gh-pages](https://github.com/zhukov/webogram/compare/gh-pages...knigareceptov:gh-pages).
